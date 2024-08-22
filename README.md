@@ -7,8 +7,8 @@ This repository contains an implementation of a backend worker that retrieves th
 A Google Analytics account was set up to receive custom events from the backend worker.
 ### Realtime events
 
-![Realtime event](results/realtime1.png)
-![Realtime event values](results/realtime2.png)
+|![Realtime event](results/realtime1.png)|![Realtime event values](results/realtime2.png)|
+|:-:|:-:|
 
 ### Events section
 
